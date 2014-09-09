@@ -28,8 +28,7 @@ DISPLAY_PAGES_ON_MENU = True
 DISPLAY_TAGS_ON_SIDEBAR = False
 
 # Blogroll
-LINKS =  (('Command line', 'http://www.jarrodmillman.com/commandline'),
-          ('R home', 'http://www.r-project.org/'),
+LINKS =  (('R home', 'http://www.r-project.org/'),
           ('R docs', 'http://cran.r-project.org/manuals.html'),
           ('R seek', 'http://rseek.org/'),
           ('Software Carpentry', 'http://software-carpentry.org'),)
